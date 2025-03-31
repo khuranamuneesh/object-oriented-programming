@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59e887e2-d621-442a-abb7-60d66aa30c0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/object-modelling.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assisted-problems/.idea/assisted-problems.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assisted-problems/BankAndAccountHolders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assisted-problems/CompanyDepartments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assisted-problems/LibraryAndBooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assisted-problems/out/production/assisted-problems/.idea/assisted-problems.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/self-problems.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ECommercePlatform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HospitalDoctorsPatients.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolManagementSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UniversityFacultyDepartments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UniversityManagementSystem.java" afterDir="false" />
-    </list>
+    <list default="true" id="59e887e2-d621-442a-abb7-60d66aa30c0f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/bridgelabz-workspace/object-oriented-programming/object-modelling/self-problems"
+    "last_opened_file_path": "C:/bridgelabz-workspace/object-oriented-programming/inheritance/assisted-problems"
   }
 }]]></component>
   <component name="RunManager" selected="Application.UniversityManagementSystem">
